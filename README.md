@@ -1,2 +1,4 @@
 # 1st-repo
-This is my first Git Repo.
+This is my first Git Repo. 
+<br>
+Author-Nischal Singh.
